@@ -21,8 +21,5 @@
 ## 📫 How to reach me
 - Email: usman05muneer@gmail.com
 
-## 📊 GitHub Stats
-![Usman-50](https://github-readme-stats.vercel.app/api?username=aapka-username&show_icons=true&theme=radical)
-
 ---
 ⭐️ Thanks for visiting my profile!
