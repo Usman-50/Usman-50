@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there 👋, I'm Usman Muneer
 
-<!--
-**Usman-50/Usman-50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🌱 I'm currently learning **HTML, CSS, and JavaScript**
+- 💻 I'm passionate about building websites and web applications
+- 🎯 My goal is to become a **MERN STACK Developer**
+- 📚 I believe in learning by building real projects
 
-Here are some ideas to get you started:
+## 🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages & Technologies:**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+## 📌 Currently Working On
+- Building small projects to practice HTML, CSS & JS
+- Improving my problem-solving skills
+
+## 📫 How to reach me
+- Email: usman05muneer@gmail.com
+
+## 📊 GitHub Stats
+![Usman-50](https://github-readme-stats.vercel.app/api?username=aapka-username&show_icons=true&theme=radical)
+
+---
+⭐️ Thanks for visiting my profile!
