@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Usman Muneer]
+# Hi there 👋, I'm Usman Muneer
 
 ## 🚀 About Me
 - 🌱 I'm currently learning **HTML, CSS, and JavaScript**
