@@ -5,7 +5,6 @@
 - 💻 I'm passionate about building websites and web applications
 - 🎯 My goal is to become a **Front-End Developer**
 - 📚 I believe in learning by building real projects
-- 😄 Pronouns: He/She/They
 
 ## 🛠️ Skills
 
